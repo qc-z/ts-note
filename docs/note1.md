@@ -1,20 +1,8 @@
 # TS 学习第一天笔记
 
-## TS 是什么
-
-#### TypeScript 是 JavaScript 的超集
-
-![111](./assets/TSandJS.jpeg)
-TypeScript is JavaScript with syntax for types.
-是带有类型语法的 JavaScript。
-
-## TypeScript 基础类型
-
 ### 1 TS 是什么
 
-#### 1.1 TypeScript 是 JavaScript 的超集。
-
-> #### TypeScript is JavaScript with syntax for types(是带有类型语法的 JavaScript)
+#### 1.1 TypeScript 是 JavaScript 的超集。是带有类型语法的 JavaScript
 
 ![](./assets/TSandJS.jpeg#id=zyPc4&originalType=binary&ratio=1&status=done&style=none)
 
