@@ -83,7 +83,9 @@ printCoord({ x:100, y:100 });
 
 #### 3.7 Interfaces
 
-> **大多数情况下，您可以根据个人喜好进行选择，TypeScript 会告诉您是否需要其他类型的声明。如果您想要启发式，请使用 interface 直到您需要使用 type.** > **个人理解: interface 不能需求再考虑使用 type**
+> **大多数情况下，您可以根据个人喜好进行选择，TypeScript 会告诉您是否需要其他类型的声明。如果您想要启发式，请使用 interface 直到您需要使用 type.**
+
+> **个人理解: interface 不能需求再考虑使用 type**
 
 ```javascript
 interface Point {
