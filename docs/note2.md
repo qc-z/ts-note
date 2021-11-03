@@ -16,7 +16,7 @@ const myCanvas = <HTMLCanvasElement>document.getElementById("main_canvas");
 
 let，var 类型是 string
 const 就是具体的值
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/22303167/1635921107862-4b5075cc-8eaa-4f4b-af97-aece249c537c.png#clientId=u0d4e7755-5338-4&from=paste&height=347&id=u63c73750&margin=%5Bobject%20Object%5D&name=image.png&originHeight=694&originWidth=1366&originalType=binary&ratio=1&size=113960&status=done&style=none&taskId=u34e009fd-7b6f-499f-b57c-44ce4c51cb9&width=683)
+![image.png](./assets/png1.png)
 
 #### Literal Inference 字面推理
 
