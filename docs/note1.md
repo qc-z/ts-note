@@ -1,10 +1,10 @@
-# TS 学习第一天笔记
+## TypeScript 基础类型
 
 ### 1 TS 是什么
 
 #### 1.1 TypeScript 是 JavaScript 的超集。是带有类型语法的 JavaScript
 
-![](./assets/TSandJS.jpeg#id=zyPc4&originalType=binary&ratio=1&status=done&style=none#id=tDYwU&originalType=binary&ratio=1&status=done&style=none)
+![TSandJS.jpeg](https://cdn.nlark.com/yuque/0/2021/jpeg/22303167/1636003420236-5c9e5bc0-0a5b-49a1-b142-170d1f9ad276.jpeg#clientId=ub9f63c65-cf35-4&from=ui&id=u1ac706d2&margin=%5Bobject%20Object%5D&name=TSandJS.jpeg&originHeight=225&originWidth=225&originalType=binary&ratio=1&size=8034&status=done&style=none&taskId=u1cd07244-7462-482d-bf47-edd7fa4fb70)
 
 ### 2 如何编译成 JS
 
