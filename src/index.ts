@@ -79,7 +79,20 @@
 //   (s: number): number
 // }
 
-function firstElement(arr: number[] | string[]) {
-  return arr[0]
+// function firstElement(arr: number[] | string[]) {
+//   return arr[0]
+// }
+// firstElement([1, '2'])
+
+// interface IUser {
+//   [index: string]: string
+// }
+// const arr: IUser = [1, 'b', 'c']
+interface Colorful {
+  color: string
 }
-firstElement([1, '2'])
+interface Circle {
+  radius: number
+}
+
+type ColorfulCircle = Colorful & Circle
